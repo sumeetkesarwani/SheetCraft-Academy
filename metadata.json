@@ -1,0 +1,6 @@
+{
+  "name": "SheetCraft Academy",
+  "description": "Master Microsoft Excel from Foundation to Expert Automation with live interactive spreadsheets, a categorized Formula Vault, business case labs, and graded practical tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
